@@ -1,2 +1,6 @@
-# Banking-Management-System
-Python Enthusiast | Tkinter Developer Learning, Building, Improving.
+##Banking-Management-System/
+│
+├── main.py
+├── accounts.csv
+├── transactions.csv
+└── README.md
